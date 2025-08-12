@@ -1,0 +1,24 @@
+{
+    "item": {
+        "name": "一二三木头人",
+        "description": "我不是原作，原作是米坛@skdkzzx，已获得原作者允许,原作者有话说：免费小游戏，随便做的练练手，可能有点无聊，还请各位不喜勿喷，谢谢，游戏规则是在3，2，1倒计时时不能点击，在“木头人！”提示出现时点击，以此计分",
+        "preview": [
+            "headpng.png",
+            "inpng.png"
+        ],
+        "icon": "icon.png",
+        "source_url": "",
+        "author": [
+            {
+                "name": "@Rubbishi_Z",
+                "author_url": "https://www.bandbbs.cn/members/766823/"
+            }
+        ]
+    },
+    "downloads": {
+        "n67": {
+            "version": "1.0.0",
+            "file_name": "123man.rpk"
+        }
+    }
+}
